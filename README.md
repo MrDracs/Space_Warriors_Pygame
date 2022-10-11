@@ -1,4 +1,5 @@
-#Game Using Python’s Pygame Library
+#Game Using Python’s Pygame Library 
+<br>
 Hello! I made this game as a project for my senior high school for the subject CS, while I was in <b> Ingraham English Medium School, Ghaziabad
 </b>.
 The game is made using the <b>pygame</b> library of <b>python</b> which I learnt from <b>FreeCodeCamp.org</b> on youtube, instructed by <b>buildwithpython</b> on youtube.
@@ -9,8 +10,9 @@ The game is made using the <b>pygame</b> library of <b>python</b> which I learnt
 <li>Game development
 <li><a href="https://www.pygame.org/" target=”_blank”> Pygame</a> Library
 <br>During the project I got hands-on experience of working on python and how it makes things so easy using such a huge number of libraries.
-
+<br><br>
 #Files
+<br>
 The repository contains a <b>main.py, data folder, SPACE_WARRIORS.exe</b>
 <br>
 <li><b>main.py</b> - This file contains the source code written in python, the code needs to be executed using a python interpreter, therefore, python should be installed in your system to run the file.
@@ -18,6 +20,7 @@ The repository contains a <b>main.py, data folder, SPACE_WARRIORS.exe</b>
  <li><b>SPACE_WARRIORS.exe</b> - This is an executable package which can be run directly without the “data” folder or python installed in system. The executable is made using <b><a href="https://www.pygame.org/" target=”_blank”> Pyinstaller</a></b>, a tool to pack python files into executables.
 <br>
 #Run
+<br>
 The game can be opened in two ways:
 <ol>
 <li> By double-clicking the <b>SPACE_WARRIOR.exe</b> file, will run the game.
@@ -29,12 +32,14 @@ The game opens as following:
 <img src=”https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/IN%20GAME%20SS.png”>
 <br>
 #Working
+<br>
 The game works by the following rules:
 <li><b>Enemy Ships</b> will be coming down the screen as soon as the game starts.You have to shoot down the enemy ships in order to score a point.
 <li>If you don't manage to shoot them in time, one of them might reach the position of your ship at bottom, and thus the game will end, and score will be displayed like this:
 <br><img src=”https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png”>
 
 #Controls
+<br>
 <b><i>For Navigation:</i></b>
 <li>Use the “Arrow Keys” provided on the Keyboard to navigate Left and Right.
 
