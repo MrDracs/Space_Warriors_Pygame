@@ -28,21 +28,21 @@ The game can be opened in two ways:
 </ol>
 The game opens as following:
 <br>
-<img src=”https://raw.githubusercontent.com/MrDracs/Space_Warriors_Pygame/main/IN%20GAME%20SS.png”>
+<img src="https://raw.githubusercontent.com/MrDracs/Space_Warriors_Pygame/main/GAME%20OVER%20SS.png">
 <br><br><hr>
 <b> Working </b>
 <br>
 The game works by the following rules:
 <li><b>Enemy Ships</b> will be coming down the screen as soon as the game starts.You have to shoot down the enemy ships in order to score a point.
 <li>If you don't manage to shoot them in time, one of them might reach the position of your ship at bottom, and thus the game will end, and score will be displayed like this:
-<br><img src=”https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png”>
+<br><img src="https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png">
 <hr>
 <b>Controls</b><br>
 <b><i>For Navigation:</i></b>
 Use the “Arrow Keys” provided on the Keyboard to navigate Left and Right.
 
 <b><i>To Shoot:</i></b>
-Press the "Space Bar" key to shoot bullets at the incoming target.
+Press the "SpaceBar" key to shoot bullets at the incoming target.
 
 <b><i>To exit:</i></b>
 After the game is over, press "X" to exit, or you can use the close button on top of the window anytime to close it.
