@@ -10,15 +10,15 @@ The game is made using the <b>pygame</b> library of <b>python</b> which I learnt
 <li>Game development
 <li><a href="https://www.pygame.org/" target=”_blank”> Pygame</a> Library
 <br>During the project I got hands-on experience of working on python and how it makes things so easy using such a huge number of libraries.
-<br><br>
-<b>Files</b><hr>
+<br><hr>
+<b>Files</b>
 <br>
 The repository contains a <b>main.py, data folder, SPACE_WARRIORS.exe</b>
 <br>
 <li><b>main.py</b> - This file contains the source code written in python, the code needs to be executed using a python interpreter, therefore, python should be installed in your system to run the file.
 <li><b>data folder</b> - This folder contains all the resources used by the game that the main.py is referring to, like images, audios, etc.
  <li><b>SPACE_WARRIORS.exe</b> - This is an executable package which can be run directly without the “data” folder or python installed in system. The executable is made using <b><a href="https://pypi.org/project/pyinstaller/" target=“blank”> Pyinstaller</a></b>, a tool to pack python files into executables.
-<br><br><hr>
+<br><hr>
 <b>Run</b>
 <br>
 The game can be opened in two ways:
@@ -28,7 +28,7 @@ The game can be opened in two ways:
 </ol>
 The game opens as following:
 <br>
-<img src=”https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/IN%20GAME%20SS.png?raw=true”>
+<img src=https://raw.githubusercontent.com/MrDracs/Space_Warriors_Pygame/main/IN%20GAME%20SS.png”>
 <br><br><hr>
 <b> Working </b>
 <br>
