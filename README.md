@@ -38,16 +38,16 @@ The game works by the following rules:
 <br><br><img src="https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png"  alt="GAME_OVER_SS" width="90%">
 <hr>
 <b>Controls</b><br>
-<b><i>For Navigation:</i></b>
+<b><li><i>For Navigation:</i></b>
 Use the “Arrow Keys” provided on the Keyboard to navigate Left and Right.
 
-<b><i>To Shoot:</i></b>
+<b><li><i>To Shoot:</i></b>
 Press the "SpaceBar" key to shoot bullets at the incoming target.
 
-<b><i>To exit:</i></b>
+<b><li><i>To exit:</i></b>
 After the game is over, press "X" to exit, or you can use the close button on top of the window anytime to close it.
 
-<b><i>To restart:</i></b>
+<b><li><i>To restart:</i></b>
 To restart the game, close the window and re-run the game.
 <br><br>
 <b><i>Have a good time Playing n Coding!</i></b>
