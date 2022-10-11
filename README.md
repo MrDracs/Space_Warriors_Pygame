@@ -28,7 +28,7 @@ The game can be opened in two ways:
 </ol>
 The game opens as following:
 <br>
-<img src=https://raw.githubusercontent.com/MrDracs/Space_Warriors_Pygame/main/IN%20GAME%20SS.png”>
+<img src=”https://raw.githubusercontent.com/MrDracs/Space_Warriors_Pygame/main/IN%20GAME%20SS.png”>
 <br><br><hr>
 <b> Working </b>
 <br>
