@@ -53,4 +53,4 @@ To restart the game, close the window and re-run the game.
 <b><i>Have a good time Playing n Coding!</i></b>
 <br><hr>
 My <a href="https://www.linkedin.com/in/the-rohit-kushwaha/">LinkedIn</a>
-& <a href=“https://www.instagram.com/mr.dracs/”>Instagram</a>
+& <a href="https://www.instagram.com/mr.dracs/">Instagram</a>
