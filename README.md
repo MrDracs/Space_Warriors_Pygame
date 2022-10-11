@@ -27,7 +27,7 @@ The game can be opened in two ways:
 <li> By opening the "main.py" in IDLE and then running it like a python Program.
 </ol>
 The game opens as following:
-<br>
+<br><br>
 <img src="https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/IN%20GAME%20SS.png" alt="IN_GAME_SS" width="90%">
 <br><br><hr>
 <b> Working </b>
@@ -35,7 +35,7 @@ The game opens as following:
 The game works by the following rules:
 <li><b>Enemy Ships</b> will be coming down the screen as soon as the game starts.You have to shoot down the enemy ships in order to score a point.
 <li>If you don't manage to shoot them in time, one of them might reach the position of your ship at bottom, and thus the game will end, and score will be displayed like this:
-<br><img src="https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png"  alt="GAME_OVER_SS" width="90%">
+<br><br><img src="https://github.com/MrDracs/Space_Warriors_Pygame/blob/main/GAME%20OVER%20SS.png"  alt="GAME_OVER_SS" width="90%">
 <hr>
 <b>Controls</b><br>
 <b><i>For Navigation:</i></b>
@@ -52,7 +52,5 @@ To restart the game, close the window and re-run the game.
 <br><br>
 <b><i>Have a good time Playing n Coding!</i></b>
 <br><hr>
-My <a href="https://www.linkedin.com/in/the-rohit-kushwaha/">LinkedIn</a>
-& <a href="https://www.instagram.com/mr.dracs/">Instagram</a>
-
- 
+<b>My <a href="https://www.linkedin.com/in/the-rohit-kushwaha/">LinkedIn</a>
+& <a href="https://www.instagram.com/mr.dracs/">Instagram</a></b>
