@@ -212,4 +212,4 @@ while running:
     show_score(textX, textY)
     credit_text(credit_fontX, credit_fontY)
     pygame.display.update()
-    clock.tick(120)
+    clock.tick(60)
